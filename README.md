@@ -5,3 +5,4 @@ Simulazione di azienda Software
  
  
 #### Azienda che ci ha assegnato il lavoro è la CLARE' COMPANY di Enrico Giorgi, Sara D' Apice e Francesco Cilurzo.
+...
